@@ -3,7 +3,7 @@ import about1 from "@/public/about-1.jpg";
 import about2 from "@/public/about-2.jpg";
 
 export const metadata = {
-  title: "About",
+  title: "About /",
 };
 
 export default function Page() {
